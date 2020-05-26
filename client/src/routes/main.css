@@ -1,0 +1,9 @@
+.CodeMirror {
+    /* Set height, width, borders, and global font properties here */
+    font-family: monospace;
+    height: 450px;
+    width: 900px;
+    color: black;
+    direction: ltr;
+    text-align: left!important;
+}
